@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>7ED Service</title>
+  <link rel="icon" href="/_images/favicon.svg">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.sevencdn.com/npm/docsify-themeable@0/dist/css/theme-simple.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '7ED Service',
+      repo: '7ednet/yard',
+      auto2top: true,
+      loadSidebar: true,
+      notFoundPage: true,
+      markdown: {
+        smartypants: true,
+      },
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      toc: {
+        scope: '.markdown-section',
+        headings: 'h1, h2, h3, h4, h5, h6',
+        title: '目录',
+      },
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.sevencdn.com/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.sevencdn.com/combine/npm/docsify/lib/plugins/zoom-image.min.js,npm/docsify-copy-code/dist/docsify-copy-code.min.js,npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+</body>
+</html>

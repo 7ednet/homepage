@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "functions": {
+    "api/bing.php": {
+      "runtime": "vercel-php@0.1.0"
+    }
+  },
+  "routes": [
+  	{ "handle": "filesystem" },
+  	{ "src": "/ia*", "status": 307, "headers": { "Location": "/" }},
+    { "src": "/ias/", "status": 307, "headers": { "Location": "/" }},
+    { "src": "/gra/", "status": 307, "headers": { "Location": "/#/raw-cdn" }},
+    { "src": "/public-cdn/", "status": 307, "headers": { "Location": "/#/public-cdn" }},
+  	{ "src": "/bing/api(.*)","dest": "/api/bing.php"},
+    { "src": "/soup/api","dest": "https://glzbdjt.gear.host/api.php"}
+  ]
+}

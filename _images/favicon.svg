@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="objectBoundingBox" cx="0%" cy="0%" fx="0%" fy="0%" r="141.42136%" gradientTransform="translate(0,0),rotate(45.00004),translate(-0,-0)" id="gradient_1">
+      <stop offset="0%" stop-color="#F80505" />
+      <stop offset="100%" stop-color="#FF7B36" />
+    </radialGradient>
+    <rect width="500" height="500" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="favicon" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+    <path d="M0 0L500 0L500 500L0 500L0 0Z" id="Rectangle" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+    <g id="7" fill="#FFFFFF" transform="translate(175 41)">
+      <path d="M142.529 101.407L80.835 343.228L39.8193 343.228L99.8047 110.123L48.7061 110.123L48.7061 149.258L10.083 149.258L10.083 75.772L142.529 75.772L142.529 101.407Z" />
+    </g>
+  </g>
+</svg>

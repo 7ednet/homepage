@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="objectBoundingBox" cx="0%" cy="0%" fx="0%" fy="0%" r="188.84221%" gradientTransform="translate(0,0),scale(0.6242521,1),rotate(31.974583),translate(-0,-0)" id="gradient_1">
+      <stop offset="0%" stop-color="#F80505" />
+      <stop offset="100%" stop-color="#FF7B36" />
+    </radialGradient>
+    <rect width="500" height="500" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="favicon" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" fill-opacity="0" />
+    <path d="M125.287 365.124L178.168 157.849L178.168 135.876L64.6426 135.876L64.6426 198.864L97.748 198.864L97.748 165.319L141.547 165.319L90.1309 365.124L125.287 365.124ZM199.115 365.124L294.184 365.124L294.184 334.802L233.393 334.802L233.393 262.878L284.955 262.878L284.955 233.142L233.393 233.142L233.393 166.198L293.305 166.198L293.305 135.876L199.115 135.876L199.115 365.124ZM419.867 353.625Q431.879 342.126 431.879 321.911L431.879 179.382Q431.879 159.167 419.867 147.521Q407.855 135.876 387.494 135.876L317.621 135.876L317.621 365.124L387.494 365.124Q407.855 365.124 419.867 353.625ZM397.455 184.509L397.455 316.198Q397.455 335.681 376.508 335.681L351.898 335.681L351.898 165.319L377.387 165.319Q397.455 165.319 397.455 184.509Z" id="Rectangle-Intersect" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
