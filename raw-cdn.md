@@ -10,6 +10,9 @@
 
 仅需在 Github 资源网址后加个 S 即可在中国大陆地区畅快访问。
 
+> **再次提醒**：   
+> 本服务已屏蔽 `.(zip|rar|7z|apk|ipa|exe|msi|m3u|m3u8|mp4|mp3)` 等文件类型的加速，以及部分滥用本服务的仓库内容的加速，详情请[查看此页面](https://github.com/7ednet/yard/discussions/5)。
+
 ## 1/ HOW TO USE
 
 将原网址
