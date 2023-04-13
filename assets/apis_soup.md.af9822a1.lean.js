@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as l}from"./chunks/framework.0799945b.js";const C=JSON.parse('{"title":"Bad Soup 毒鸡汤 API","description":"","frontmatter":{},"headers":[],"relativePath":"apis/soup.md","lastUpdated":null}'),o={name:"apis/soup.md"},p=l("",10),e=[p];function t(c,r,F,D,y,i){return n(),a("div",null,e)}const d=s(o,[["render",t]]);export{C as __pageData,d as default};
