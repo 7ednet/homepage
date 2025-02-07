@@ -24,7 +24,7 @@
 | 2 | PDF 工具集 | 一个 PDF 工具集合站点 | https://pdf.con.sh |
 | 3 | Tiny JPG | 一个批量缩小图片服务 | https://tiny.con.sh |
 | 4 | IP Check | 一个 IP 检测工具集合站点 | https://ip.con.sh |
-| 5 | AVATAR | 内含三种头像生成器 | https://7ed.net/html/avatar/) <br> or https://con.sh/tx |
+| 5 | AVATAR | 内含三种头像生成器 | https://7ed.net/html/avatar/ <br> or https://con.sh/tx |
 | 6 | RILI | 一个日历生成器 | https://7ed.net/html/rili/ <br> or https://con.sh/rl |
 | 7 | DAMA | 一个图片打码工具 | https://7ed.net/html/dama/ <br> or https://con.sh/dm |
 | 8 | 拍立得边框生成器 | 一个图片边框生成工具 | https://7ed.net/html/frame/ <br> or https://con.sh/bk |

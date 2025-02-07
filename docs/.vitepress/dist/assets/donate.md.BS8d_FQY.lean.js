@@ -1,1 +1,0 @@
-import{_ as a,c as t,o,ae as r}from"./chunks/framework.eBl3ZIvH.js";const h=JSON.parse('{"title":"捐赠","description":"","frontmatter":{},"headers":[],"relativePath":"donate.md","filePath":"donate.md","lastUpdated":null}'),c={name:"donate.md"};function d(l,e,s,n,i,p){return o(),t("div",null,e[0]||(e[0]=[r("",7)]))}const f=a(c,[["render",d]]);export{h as __pageData,f as default};
