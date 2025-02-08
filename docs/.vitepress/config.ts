@@ -23,6 +23,7 @@ export default {
       text: 'GitMirror 资源加速',
       collapsible: true,
       items: [
+        { text: 'Docker 加速镜像', link: '/gitmirror/docker' },
         { text: 'Github 文件加速', link: '/gitmirror/hub' },
         { text: 'Github Raw 加速', link: '/gitmirror/raw' },
         { text: 'Github Gist 加速', link: '/gitmirror/gist' },
