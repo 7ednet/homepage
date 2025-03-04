@@ -1,6 +1,3 @@
-<h1 align="center"><img src="/_images/logo.svg" style="width: 160px;" alt="7ED.NET"></h1>
-
-
 ## What it is
 
 7ED.NET 为您提供一系列的服务，包含静态资源 CDN 加速服务、Github RAW 加速服务、海外图片内地加速服务、Bing 每日图片 API等。

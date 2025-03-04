@@ -16,7 +16,8 @@ export default {
       items: [
         { text: '静态资源加速', link: '/start/public-cdn' },
         { text: '图片处理服务', link: '/start/images-services' },
-        { text: 'RSS 一站式服务', link: '/start/rss' }
+        { text: 'RSS 一站式服务', link: '/start/rss' },
+        { text: 'Unsend 临时邮箱', link: '/start/unsend' }
       ]
       },
       {

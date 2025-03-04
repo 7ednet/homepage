@@ -2,7 +2,7 @@
 
 <!-- toc -->
 
-:RSS 一站式服务包含 RSSHub 后端、Miniflux 阅读器、Miniflux 第三方客户端三个服务。
+RSS 一站式服务包含 RSSHub 后端、Miniflux 阅读器、Miniflux 第三方客户端三个服务。
 
 
 ## RSSHub 后端
