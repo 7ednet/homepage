@@ -6,9 +6,9 @@
 :::
 
 ::: warning 
-GitMirror 文件加速服务使用 Cloudflare Workers 免费版套餐，目前每日使用量已严重超支。**我们已经对所有来自 Android 的访问、部分滥用仓库开启托管质询**。
-
-在开启托管质询期间可能会出现无法使用的情况，建议您考虑使用其他服务，例如： [GhProxy](https://ghproxy.com/)、[GHPS](https://ghps.cc/)、[DDLC](https://gh.ddlc.top/) 等。
+1. 本服务初衷为为 **个人** 用户提供 **临时** 的 Github 文件加速。
+2. 本服务已开启严格审计模式，超出合理使用范畴的仓库会被放入 **黑名单** 中。
+3. 本服务已开启文件尺寸限制，超过 **66MB** 的文件会被重定向至原链接。
 :::
 
 加速下载 Github Release、Archive 等文件。
@@ -18,7 +18,7 @@ GitMirror 文件加速服务使用 Cloudflare Workers 免费版套餐，目前�
 
 在下方输入框内输入源网址：
 
-<iframe src="/html/hub.html" width="100%" height="240px" style="border:none;"></iframe>
+<iframe src="/html/hub.html" width="100%" height="500px" style="border:none;"></iframe>
 
 ## 2/ 使用方式二
 

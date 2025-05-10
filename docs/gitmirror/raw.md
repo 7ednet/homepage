@@ -9,7 +9,7 @@
 :::
 
 ::: warning
-本服务已屏蔽 `.(zip|rar|7z|apk|ipa|exe|msi|m3u|m3u8|mp4|mp3)` 等文件类型的加速，以及部分滥用本服务的仓库内容的加速，详情请[查看此页面](https://github.com/7ednet/yard/discussions/5)。
+本服务已重定向至 [Github 文件加速](/gitmirror/hub)，`raw.gitmirror.com` 将重定向至 `hub.gitmirror.com`。
 :::
 
 为了在中国大陆地区流畅地访问 Github RAW 资源，您只需要简单地替换一下网址。这样，您就可以在任何地方、任何时候轻松访问 Github 的各种 RAW 资源，包括代码片段、文件和其他相关内容。替换网址是一件非常简单的事，只需几分钟的时间即可完成，为什么不尝试一下呢。
@@ -34,7 +34,6 @@ raw.gitmirror.com
 https://raw.gitmirror.com/imagehosted/images/master/2019/06/20190612115457.png
 ```
 
-你也可以继续使用 `raw.githubusercontentS.com`，它会自动跳转至 `raw.gitmirror.com`。
 
 ## 2/ Effect
 
