@@ -22,8 +22,12 @@
 使用方式：
 
 ```
-https://i.sevencdn.com/og/[主题，dark/light]/[文字大小，数字]/[文字]
+https://i.sevencdn.com/og?title=[标题]&sub=[副标题]&icon=https://www.7ed.net/apple-touch-icon.png
 ```
+
+* `title`: 标题。
+* `sub`: 副标题。
+* `icon`: icon 图标网址， png 格式。
 
 例如：
 
@@ -31,7 +35,7 @@ https://i.sevencdn.com/og/[主题，dark/light]/[文字大小，数字]/[文字]
 https://i.sevencdn.com/og/dark/120/🌏 Hello World
 ```
 
-![](https://i.sevencdn.com/og/dark/120/%F0%9F%8C%8F%20Hello%20World)
+![](https://i.sevencdn.com/og?title=7ED%20Services&sub=%E4%B8%BA%E6%82%A8%E6%8F%90%E4%BE%9B%E4%BE%BF%E7%94%A8%E7%9A%84%E6%9C%8D%E5%8A%A1&icon=https://www.7ed.net/apple-touch-icon.png)
 
 
 ## 2/ 获取网站 Favicon
